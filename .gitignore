@@ -35,3 +35,6 @@ go.work.sum
 /maelstrom/
 /maelstrom.tar.bz2
 store/
+
+# Compiled node binaries (each maelstrom-<challenge>/ dir builds a binary of the same name)
+maelstrom-*/maelstrom-*
